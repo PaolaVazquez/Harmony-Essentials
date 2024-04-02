@@ -1,0 +1,103 @@
+html,
+body {
+  width: 100% !important;
+  overflow-x: hidden;
+  background-color: #f1efe7;
+}
+.a_none_style {
+  text-decoration: none;
+}
+/*********************
+TYPOGRAPHY 
+*********************/
+@font-face {
+  font-family: "Mulish Black";
+  src: url("fonts/Mulish-Black.ttf");
+}
+@font-face {
+  font-family: "Mulish Bold";
+  src: url("fonts/Mulish-Bold.ttf");
+}
+@font-face {
+  font-family: "Mulish ExtraBold";
+  src: url("fonts/Mulish-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "Mulish ExtraLight";
+  src: url("fonts/Mulish-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Mulish Medium";
+  src: url("fonts/Mulish-Medium.ttf");
+}
+@font-face {
+  font-family: "Mulish Regular";
+  src: url("fonts/Mulish-Regular.ttf");
+}
+.black {
+  font-family: "Mulish Black";
+}
+.bold {
+  font-family: "Mulish Bold";
+}
+.extraBold {
+  font-family: "Mulish ExtraBold";
+}
+.extraLight {
+  font-family: "Mulish ExtraLight";
+}
+.medium {
+  font-family: "Mulish Medium";
+}
+.regular {
+  font-family: "Mulish Regular";
+}
+/*********************
+  Menu 
+*********************/
+.logo-menu {
+  width: 200px;
+}
+.nav-link {
+  font-family: "Mulish Medium";
+  color: #000000;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.btn-quote {
+  margin-left: 1rem;
+  border: none;
+  border-radius: 10px;
+  background: #cbc1a6;
+  color: #000000;
+}
+.btn-quote:hover {
+  background: transparent;
+  border: 2px solid #cbc1a6;
+  color: #000000;
+}
+/*********************
+  First Section 
+*********************/
+.title-header {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.title-header h1 {
+  font-size: 80px;
+}
+.title-header p {
+  font-family: "Mulish Regular";
+  font-size: 20px;
+}
+/*********************
+  Second Section 
+*********************/
+.title-second-section {
+  text-align: center;
+  font-family: "Mulish Bold";
+  margin-top: 3rem;
+}
