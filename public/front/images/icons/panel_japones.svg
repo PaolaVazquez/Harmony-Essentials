@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244.5" height="233.5" viewBox="0 0 244.5 233.5">
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-420.5 -222)">
+    <g id="Rectángulo_3" data-name="Rectángulo 3" transform="translate(579 222)" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="9">
+      <rect width="86" height="210" stroke="none"/>
+      <rect x="4.5" y="4.5" width="77" height="201" fill="none"/>
+    </g>
+    <g id="Rectángulo_2" data-name="Rectángulo 2" transform="translate(505 229)" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="9">
+      <rect width="86" height="210" stroke="none"/>
+      <rect x="4.5" y="4.5" width="77" height="201" fill="none"/>
+    </g>
+    <path id="Trazado_1" data-name="Trazado 1" d="M0,0H86V210H0Z" transform="translate(425 241)" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="9"/>
+  </g>
+</svg>
