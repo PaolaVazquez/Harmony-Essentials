@@ -219,3 +219,102 @@ TYPOGRAPHY
 .bg-brown {
   background-color: #b5a582;
 }
+/*********************
+  Contact Us Section 
+*********************/
+.form-contact-us-section {
+  color: #ffffff;
+  padding-top: 7rem;
+}
+.form-contact-us-section input {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+  border-radius: 0;
+  color: #ffffff;
+}
+.form-contact-us-section input:focus {
+  background: transparent;
+  box-shadow: none;
+  border-bottom: 1px solid #ffffff;
+  color: #ffffff;
+}
+.form-contact-us-section select {
+  background: transparent;
+  background-image: url("../images/icons/chevron-down.svg");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 16px 12px;
+  border: none;
+  color: #ffffff;
+}
+.form-contact-us-section textarea {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+  border-radius: 0;
+  color: #ffffff;
+}
+.form-contact-us-section textarea::placeholder {
+  color: #ffffff;
+}
+.form-contact-us-section textarea:focus {
+  background: transparent;
+  box-shadow: none;
+  border-bottom: 1px solid #ffffff;
+  color: #ffffff;
+}
+.btn-send-contact {
+  background: transparent;
+  border: 1px solid #ffffff;
+  font-family: "Mulish Medium";
+  width: 180px;
+}
+.contact-section h3 {
+  text-align: center;
+  font-family: "Mulish Regular";
+  font-size: 3rem;
+  color: #ffffff;
+}
+.contact-section p {
+  color: #ffffff;
+  font-family: "Mulish Regular";
+}
+.image-contact-section {
+  width: 80%;
+}
+/*********************
+  Footer Section 
+*********************/
+.menu-footer h5 {
+  font-family: "Mulish ExtraBold";
+  font-size: 18px;
+}
+.menu-footer a {
+  color: #000000;
+  font-family: "Mulish Regular";
+  font-size: 12px;
+}
+.menu-footer h6 {
+  font-size: 14px;
+}
+.legal-footer h5 {
+  font-family: "Mulish ExtraBold";
+  font-size: 18px;
+}
+.legal-footer a {
+  color: #000000;
+  font-family: "Mulish Regular";
+  font-size: 12px;
+}
+.legal-footer h6 {
+  font-size: 14px;
+}
+.social-footer h5 {
+  font-family: "Mulish ExtraBold";
+  font-size: 18px;
+}
+.rights-reserved {
+  font-family: "Mulish Regular";
+  font-size: 12px;
+}
